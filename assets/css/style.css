@@ -64,3 +64,22 @@ thead {
   width: 60%;
 }
 
+.link{
+  color: #828282;
+  font-weight: 600;
+}
+
+#monitor{
+  background-image:url(C:/Users/matis/Desktop/Boolean/html-css-booleaner/assets/img/monitor.jpg);
+ 
+}
+
+#graph{
+  background-image: url(assets/img/graph.jpg);
+}
+
+footer{
+  text-align: right;
+  padding-top: 50px;
+  color: #828282;
+}
