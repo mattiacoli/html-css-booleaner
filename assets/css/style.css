@@ -47,3 +47,12 @@ figcaption{
 tr{
   width: 200px;
 }
+
+.odd_line{
+  background-color: #b1e5f2;
+}
+
+thead{
+  background-color: #20a9e5;
+  color: white;
+}
