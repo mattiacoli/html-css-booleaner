@@ -12,3 +12,29 @@ header{
         left:9px;
         z-index: 1;
 }
+
+section
+{
+  font-weight: 600;
+}
+
+.caption
+{
+  color: #828282;
+
+}
+
+#author
+{
+  color: #33afe6;
+}
+
+figure
+{
+  padding-top: 14px;
+  margin: 0;
+}
+
+figcaption{
+  font-size: 11px;
+}
