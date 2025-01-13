@@ -38,3 +38,8 @@ figure
 figcaption{
   font-size: 11px;
 }
+
+.highlight
+{
+  background-color: yellow;
+}
