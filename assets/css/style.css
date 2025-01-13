@@ -1,0 +1,14 @@
+header{
+  background-color:#4ea0ff;
+}
+
+#header_logo
+{
+  width:300px;
+        height:100px;
+        padding:20px;
+        position: absolute;
+        top:210px;
+        left:9px;
+        z-index: 1;
+}
