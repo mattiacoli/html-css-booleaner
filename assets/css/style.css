@@ -1,58 +1,65 @@
-header{
-  background-color:#4ea0ff;
+header {
+  background-color: #4ea0ff;
 }
 
-#header_logo
-{
-  width:300px;
-        height:100px;
-        padding:20px;
-        position: absolute;
-        top:210px;
-        left:9px;
-        z-index: 1;
+#header_logo {
+  width: 300px;
+  height: 100px;
+  padding: 20px;
+  position: absolute;
+  top: 210px;
+  left: 9px;
+  z-index: 1;
 }
 
-section
-{
+section {
   font-weight: 600;
 }
 
-.caption
-{
+.caption {
   color: #828282;
 
 }
 
-#author
-{
+#author {
   color: #33afe6;
 }
 
-figure
-{
+figure {
   padding-top: 14px;
   margin: 0;
 }
 
-figcaption{
+figcaption {
   font-size: 11px;
 }
 
-.highlight
-{
+.highlight {
   background-color: yellow;
 }
 
-tr{
+tr {
   width: 200px;
 }
 
-.odd_line{
+.odd_line {
   background-color: #b1e5f2;
 }
 
-thead{
+thead {
   background-color: #20a9e5;
   color: white;
+  text-align: left;
+}
+
+#first-column {
+  width: 20%;
+}
+
+#second-column {
+  width: 20%;
+}
+
+#third-column{
+  width: 60%;
 }
